@@ -91,3 +91,8 @@ div h4 {
 nav ul {
     display: flex   ;
 }
+
+main img {
+    display: block;
+    margin: auto;
+}
